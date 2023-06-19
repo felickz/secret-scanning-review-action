@@ -1,3 +1,7 @@
+# ATTENTION
+This repo has been archived. For updated versions, please visit https://github.com/advanced-security/secret-scanning-review-action
+
+
 # secret-scanning-review-action
 Action to provide feedback annotations to the developer when a Secret Scanning alert is initially detected in a PR commit.
 
